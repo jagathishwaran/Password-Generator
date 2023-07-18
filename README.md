@@ -14,7 +14,7 @@ Generate secure and unique passwords effortlessly with this lightweight JavaScri
 
 Live Demo:
 
-        https://jagathishwaran.github.io/Quiz-Site/
+        https://jagathishwaran.github.io/Password-Generator/
 
     
 ## Getting Started
